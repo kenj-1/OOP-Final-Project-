@@ -79,7 +79,7 @@ public class EncantadiaGame {
                 new int[]{20, 35, 50});
 
         Character dirk = new Character("Dirk (Geokinesis)", "Earth",
-                new String[]{"Linog", "Bato Dela Rosa", "Plantito Attack"},
+                new String[]{"Linog", "Bato Dela Rosa", "Ding! Ang bato"},
                 new int[]{40, 55, 75},
                 new int[]{15, 30, 40});
 
